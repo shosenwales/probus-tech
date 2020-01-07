@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(90.34deg, #BE3A26 30.42%, #6E0E0A 101.33%);
+}
+
+ ul{
+    display: flex;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+    float: right;
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 40px 0px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    padding: 10px;
+    
+
+}
+.logo{
+    width: 117px;
+    height: 20.48px;
+    margin: 60px 0px;
+    padding-left: 60px;
+}
